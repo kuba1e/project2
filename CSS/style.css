@@ -1,0 +1,57 @@
+
+
+/*Обнуление*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+* { box-sizing: border-box; }
+
+
+.container {
+	max-width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+.top {
+	width: 150px;
+	height: 100px;
+	background-color: #C4C4C4;
+	margin-bottom: 50px;
+}
+
+.under__top {
+	height: 100px;
+	background-color: #C4C4C4;
+	margin-bottom: 50px;
+}
+
+.main__block {
+	width: 700px;
+	height: 350px; 
+	background-color: #C4C4C4;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 50px;
+
+}
+
+.section_style {
+	margin-bottom: 50px;
+	border: 2px solid #C4C4C4;
+	padding: 40px;
+	font-family: 'Arial';
+	font-size: 20px;
+	line-height: 24px;
+	color: #000;
+	display:inline-block;
+
+}
+
+.section__low {
+	text-align: right;
+}
